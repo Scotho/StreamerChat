@@ -18,7 +18,8 @@ var chat = document.getElementById('chat'),
 	randomColorsChosen = {},
 	clientOptions = {
 			options: {
-					debug: true
+					debug : true,
+					secure : true,
 				},
 			channels: channels
 		},
