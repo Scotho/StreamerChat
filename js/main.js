@@ -19,7 +19,7 @@ var chat = document.getElementById('chat'),
 	clientOptions = {
 			options: {
 					debug : true,
-					secure : true,
+					secure : true
 				},
 			channels: channels
 		},
