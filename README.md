@@ -1,2 +1,2 @@
 # StreamerChat
-Filter chat messages to only display user groups or specific users.
+Filter twitch chat messages to display user groups or specific users.
