@@ -1181,7 +1181,7 @@ function updateServers(callback) {
         host: "www.tmijs.org",
         path: "/api/servers/",
         withCredentials: false,
-        protocol:"http:"
+        protocol:"https:"
     }, function(res) {
         var body = "";
         res.on("data", function(buffer) {
