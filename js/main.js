@@ -20,7 +20,8 @@ function handleChat(channel, user, message, self) {
     var chan = dehash(channel),
         name = user.username;
     console.log('---------');
-    console.log(user + ": " + message);
+    console.log(user);
+    console.log(message);
     console.log(self);
     console.log(channel);
     console.log('---------');
