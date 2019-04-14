@@ -1,4 +1,4 @@
-var channels = ['Kyle']; // Channels to initially join
+var channels = ['summit1g']; // Channels to initially join
 
 var clientOptions = {
         options: {
